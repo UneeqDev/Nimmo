@@ -9,19 +9,19 @@ I'm a frontend React developer who is passionate about building responsive and u
 
 Here are some of the skills that I have acquired over the years:**
 
-✴ReactJs
+🍂ReactJs
 
-✴NextJs
+🍂NextJs
 
-✴HTML & CSS
+🍂HTML & CSS
 
-✴MaterialUI
+🍂MaterialUI
 
-✴JavaScript
+🍂JavaScript
 
-✴Responsive Design
+🍂Responsive Design
 
-✴Git & GitHub
+🍂Git & GitHub
 
 
 **📫 Contact**
